@@ -1,13 +1,4 @@
 # FAST-API
-Why did we choose FAST API over Flask and Django for our RESTFUL Micro-services
-According to techempower benchmark Fast API beats every other framework when it comes to performance where Flask and Django are no where near the Top 10.
-Development Speed
--Here we are only concerned about a RESTful Micro-service, which would have the following as basic requirements.
--Exposes REST endpoint/s.
--OpenAPI(Swagger) documentation.
--Database connection (Optional).
-
-
 Creating a REST API endpoint with Fast API and Open API takes less than a 5 minutes.
 
 
