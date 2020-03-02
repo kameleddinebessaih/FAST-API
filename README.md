@@ -1,5 +1,5 @@
 # FAST-API
-Creating a REST API endpoint with Fast API and Open API takes less than a 5 minutes.
+----------------------------------------------------------------------------------------------------------------------------
 
 
 import uvicorn
